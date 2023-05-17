@@ -1,0 +1,32 @@
+A Project Management tool involves various bussiness entities that interact
+with each other. Here are the some entities involved:
+
+User:Who use the Project Management System.
+Users can have different roles such as admin, project manager, or team
+member. Users have personal information like name, email, and password.
+
+Project:A specific project within the system. Each project has a
+unique identifier, a title, a description, and other details such as start date, end
+date, and priority. Projects can be assigned to project managers.
+Task: Represents a specific task or activity within a project. Tasks have
+attributes like a unique identifier, title, description, due date, status etc.
+
+priority. Tasks can be assigned to team members.
+
+Document:Project-related documents or files. Documents can be
+associated with a project or task. They have like a unique identifier,
+name, description, version number, and file attachment.
+
+Team:A group of individuals working together on a project. A
+team may have multiple team members and is associated with a specific
+project.
+
+Discussion:A communication channel within a project.
+Discussions allow users to collaborate, share updates, and discuss
+project-related topics. Discussions can be associated with projects, tasks, or
+specific users.
+
+Notification:Notifications sent to users to provide updates,
+reminders, or alerts about changes in projects, tasks, or discussions.
+Notifications may include information like the type of update, timestamp, and
+the associated entity.
