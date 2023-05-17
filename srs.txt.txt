@@ -1,0 +1,20 @@
+ Functional Requirements
+ User Registration 
+Users can register with the system by their name, email, and
+password.
+Users can log in to the system using their registered email and password.
+User roles and permissions (admin, project manager, team member) should
+be assigned.
+ Project Creation and Management
+Project managers can create new projects and provide project details (title,
+description, start date, end date, etc.).
+Projects can be assigned to specific teams or individuals.
+Projects can be categorized based on criteria such as status, priority, or
+department.
+ Task Assignment and Tracking
+Project managers can create tasks within a project and assign them to team
+members.
+Tasks should have details such as title, description, due date, and priority.
+Team members can update task status (in progress, completed, etc.) and
+provide progress updates.
+Task dependencies and priorities can be defined to manage task sequencing.
